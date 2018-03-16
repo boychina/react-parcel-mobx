@@ -11,6 +11,7 @@
     "mobx": "^4.1.0",
     "mobx-react": "^5.0.0",
     "parcel-bundler": "latest",
+    "postcss": "^6.0.19",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },

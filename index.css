@@ -19,6 +19,3 @@ img {
   width: 100px;
 }
 
-.App:hover > img {
-  transform: rotate(1080deg);
-}
