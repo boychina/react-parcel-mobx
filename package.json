@@ -6,12 +6,13 @@
     "build": "cross-env NODE_ENV=production parcel build index.html --no-minify --public-url /"
   },
   "dependencies": {
-    "autoprefixer": "^7.2.1",
+    "autoprefixer": "^8.1.0",
     "babel-preset-react-app": "^3.1.0",
     "mobx": "^4.1.0",
     "mobx-react": "^5.0.0",
     "parcel-bundler": "latest",
     "postcss": "^6.0.19",
+    "postcss-modules": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
